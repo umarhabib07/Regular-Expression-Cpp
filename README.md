@@ -1,4 +1,4 @@
-## Copyright © 2022, Umar Habib, All rights reserved.
+Copyright © 2022, Umar Habib, All rights reserved.
 
 # Regular-Expression-Cpp
 Regular Expression in C++.  You will Never have been seen Regex in C++ without using libraries.  I have made Regex in C++ only | if | else | loop | with ASCII code.  This program will work like key Events.
